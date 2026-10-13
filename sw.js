@@ -1,5 +1,5 @@
 // Keeps the app working offline. A new version replaces the old cache when it is published.
-const CACHE = 'treinos-20261012225647';
+const CACHE = 'treinos-20261012234302';
 const FILES = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './icon-maskable-512.png', './apple-touch-icon.png', './favicon.png'];
 
 self.addEventListener('install', event => {
